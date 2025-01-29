@@ -1,10 +1,8 @@
-
 # Girish Kumar Goyal
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Girish Kumar Goyal</h1>
 <h3 align="center">A passionate Fullstack Developer from India | Aspirant</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-1-goyal&label=Profile%20Views&color=0e75b6&style=flat" alt="girish-1-goyal" /> </p>
 
@@ -12,7 +10,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Coding Club Website, Book Rental Website, Linked List Visualiser**
-- 🌱 I’m currently learning **Frontend Development, Algorithms, Python, and C++, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Frontend Development, Algorithms, Python, C++, and Data Structures**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://girishgoyal.netlify.app)
 - 💬 Ask me about **React, Angular, Competitive Programming, Python, or C++**
 - 📫 Reach me at **girishgoyal15144214@gmail.com**
@@ -46,17 +44,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=girish-1-goyal&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-1-goyal&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-1-goyal&theme=radical" alt="Streak Stats" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=girish-1-goyal&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=girish-1-goyal&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
 
 ## 🏆 Competitive Programming Profiles
-- **CodeChef:** [Girishkuma_123](https://www.codechef.com/users/girishkuma_123)
+- **CodeChef:** [girish_k_goyal](https://www.codechef.com/users/girish_k_goyal)
 
 <p align="center">
-  <a href="https://www.codechef.com/users/girishkuma_123" target="_blank">
-    <img src="https://cp-logo.vercel.app/codechef/girishkuma_123" alt="CodeChef Profile" width="400" />
+  <a href="https://www.codechef.com/users/girish_k_goyal" target="_blank">
+    <img src="https://cp-logo.vercel.app/codechef/girish_k_goyal" alt="CodeChef Profile" width="400" />
   </a>
 </p>
 
