@@ -2,7 +2,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Girish Kumar Goyal</h1>
-<h3 align="center">A passionate Fullstack Developer from India | Aspirant</h3>
+<h3 align="center">A passionate Developer(Backend and Frontend) from India | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girish-1-goyal&label=Profile%20Views&color=0e75b6&style=flat" alt="girish-1-goyal" /> </p>
 
@@ -42,9 +42,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=girish-1-goyal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-1-goyal&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=girish-1-goyal&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=girish-1-goyal&theme=radical" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girish-1-goyal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -56,6 +55,8 @@
   <a href="https://www.codechef.com/users/girish_k_goyal" target="_blank">
     <img src="https://cp-logo.vercel.app/codechef/girish_k_goyal" alt="CodeChef Profile" width="400" />
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=CodeChef%20Rating&query=rating&url=https%3A%2F%2Fcompetitive-coding-api.herokuapp.com%2Fapi%2Fcodechef%2Fgirish_k_goyal" alt="CodeChef Rating Graph" />
 </p>
 
 ---
